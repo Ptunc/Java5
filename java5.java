@@ -15,7 +15,7 @@ public class java5 {
         System.out.print("alfa: ");
         alfa = input.nextInt();
         System.out.println("alan: " + (pi * (r*r) * alfa)/360);
-
+        input.close();
 
     }
 }
